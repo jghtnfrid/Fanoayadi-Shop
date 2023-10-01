@@ -1,0 +1,25 @@
+#wrapper{
+width:825px;
+left:2px;
+top:2px;
+}
+#image{
+width:900px;
+overflow:hidden;
+}
+#image div,#image img {
+display:block;
+float:left;
+width:275px;
+height:200px;
+}
+#images span{
+font-family:Arial,Geneva,SunSans-Regular,sans-serif
+font-size:14px;
+line-height:22px;
+backgroud-color:black;
+color:#ccc;
+display:block;
+float:left;
+width:215px;
+height:160px;
